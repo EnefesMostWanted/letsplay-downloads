@@ -1,7 +1,7 @@
 📦 Let's Play Projektarchiv von Enefes 🎮
 
 Willkommen im offiziellen Repository zu meinen YouTube Let's Plays!  
-Hier findest du Blaupausen, Speicherstände, Screenshots und begleitende Dateien zu meinen Serien auf dem Kanal Enefes – Most Wanted Gaming.  
+Hier findest du Blaupausen, Speicherstände, Screenshots und begleitende Dateien zu meinen Serien [meinen Serien](https://www.youtube.com/@Enefes91).  
 Alles frei zum Herunterladen, Ausprobieren und Mitspielen!  
 
 ## 📁 Übersicht der Projekte
