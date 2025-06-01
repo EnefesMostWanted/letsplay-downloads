@@ -1,46 +1,21 @@
-### 📦 Let's Play Projektarchiv von Enefes 🎮  
+# 🛠️ Satisfactory – Blaupausen & Speicherstände
 
-Willkommen im offiziellen Repository zu meinen YouTube Let's Plays!  
-Hier findest du Blaupausen, Speicherstände, Screenshots und begleitende Dateien zu meinen Serien [meinen Serien](https://www.youtube.com/@Enefes91).  
-Alles frei zum Herunterladen, Ausprobieren und Mitspielen!  
-Alles aktuell noch komplett WIP versteht sich :D  
+Willkommen im Satisfactory-Ordner meines Let's Plays!
 
-### 📁 Übersicht der Projekte
+Hier findest du:
+- `.blueprint`-Dateien für meine Fabriken
+- `.sav`-Dateien (Speicherstände)
+- Begleitende Screenshots und Layouts
 
-🛠️ **Satisfactory**  *(WIP)*   
-Blueprint-Dateien, Layout-Screenshots und Speicherstände meiner aktuellen Satisfactory-Welt.  
+## 📥 Nutzungshinweis
 
-🏛️ **Civilization 7** *(WIP)*  
-Savegames, Taktik-Notizen und Karten für meine Gottheit-Kampagnen.  
+1. **Blaupausen**
+   - Lade die `.blueprint`-Datei herunter
+   - Kopiere sie in deinen Ordner: `Documents\My Games\FactoryGame\Saved\SaveGames\blueprints\`
+   - Im Spiel über das Blaupausen-Menü abrufen
 
-👑 **Crusader Kings 3** *(WIP)*  
-Spielstände und Dynastie-Daten für meine Roleplay-Kampagne *„Die große indische Vereinigung“*.  
+2. **Speicherstände**
+   - Lade die `.sav`-Datei herunter
+   - Kopiere sie nach: `Documents\My Games\FactoryGame\Saved\SaveGames\`
 
-📷 **Thumbnails & Medien** *(WIP)*  
-Vorschau-Bilder, verwendete Thumbnails und andere Medieninhalte.
-
-
-### ❓ Wie funktioniert das Ganze?
-
-📂 **Verzeichnis wählen**  
-→ Klick auf den jeweiligen Spielordner.  
-
-⬇️ **Download starten**  
-→ ZIP-Dateien oder `.sav` / `.blueprint` direkt herunterladen.  
-
-🎮 **Einfügen ins Spiel**  
-→ Eine Anleitung findest du ggf. direkt im jeweiligen Ordner als `README.md`.  
-
----
-
-### 📬 Feedback & Fragen
-
-Wenn du Fragen zu bestimmten Spielständen oder Blaupausen hast, **kommentiere gerne direkt unter den jeweiligen YouTube-Videos** oder **schick mir eine Nachricht über die Kanal-Info**.  
-Ich freue mich über jede Rückmeldung! 🙌  
-
----
-
-### 📢 Abonniere den Kanal
-
-🔗 [YouTube-Kanal öffnen](https://www.youtube.com/@Enefes91)  
-🔔 Neue Folgen gibt’s **Montag bis Freitag** + **Livestreams nach Umfrage**
+Viel Spaß beim Mitbauen! 💡
