@@ -11,7 +11,7 @@ Alles aktuell noch komplett WIP versteht sich :D
 Blueprint-Dateien, Layout-Screenshots und Speicherstände meiner aktuellen Satisfactory-Welt.  
 
 🏛️ **Civilization 7** *(WIP)*  
-Savegames, Taktik-Notizen und Karten für meine Gottheit-Kampagne mit Pachacútec.  
+Savegames, Taktik-Notizen und Karten für meine Gottheit-Kampagnen.  
 
 👑 **Crusader Kings 3** *(WIP)*  
 Spielstände und Dynastie-Daten für meine Roleplay-Kampagne *„Die große indische Vereinigung“*.  
