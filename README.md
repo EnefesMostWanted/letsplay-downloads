@@ -5,11 +5,14 @@ Hier findest du Blaupausen, Speicherstände, Screenshots und begleitende Dateien
 Alles frei zum Herunterladen, Ausprobieren und Mitspielen!
 
 📁 Übersicht der Projekte
-Spiel	                    Beschreibung
-🛠️ Satisfactory	          Blueprint-Dateien, Layout-Screenshots und Speicherstände meiner aktuellen Satisfactory-Welt.
-🏛️ Civilization 7	        Savegames, Taktik-Notizen und Karten für meine Gottheit-Kampagne mit Pachacútec.
-👑 Crusader Kings 3	      Spielstände und Dynastie-Daten für meine Roleplay-Kampagne "Die große indische Vereinigung".
-📷 Thumbnails & Medien	  Vorschau-Bilder, verwendete Thumbnails und andere Medieninhalte.
+🛠️ Satisfactory	          
+Blueprint-Dateien, Layout-Screenshots und Speicherstände meiner aktuellen Satisfactory-Welt.
+🏛️ Civilization 7 (WIP)
+Savegames, Taktik-Notizen und Karten für meine Gottheit-Kampagne mit Pachacútec.
+👑 Crusader Kings 3 (WIP)
+Spielstände und Dynastie-Daten für meine Roleplay-Kampagne "Die große indische Vereinigung".
+📷 Thumbnails & Medien (WIP)
+Vorschau-Bilder, verwendete Thumbnails und andere Medieninhalte.
 
 ❓ Wie funktioniert das Ganze?
 Verzeichnis wählen → Klick auf den jeweiligen Spielordner.
