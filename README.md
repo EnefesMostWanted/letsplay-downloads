@@ -7,7 +7,7 @@ Alles aktuell noch komplett WIP versteht sich :D
 
 ### 📁 Übersicht der Projekte
 
-🛠️ **Satisfactory**  *(WIP)*   
+🛠️ [**Satisfactory**](https://github.com/EnefesMostWanted/letsplay-downloads/tree/satisfactory)  *(WIP)*   
 Blueprint-Dateien, Layout-Screenshots und Speicherstände meiner aktuellen Satisfactory-Welt.  
 
 🏛️ **Civilization 7** *(WIP)*  
