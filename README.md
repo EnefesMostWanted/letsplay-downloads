@@ -1,10 +1,10 @@
-📦 Let's Play Projektarchiv von Enefes 🎮
+### 📦 Let's Play Projektarchiv von Enefes 🎮  
 
 Willkommen im offiziellen Repository zu meinen YouTube Let's Plays!  
 Hier findest du Blaupausen, Speicherstände, Screenshots und begleitende Dateien zu meinen Serien [meinen Serien](https://www.youtube.com/@Enefes91).  
 Alles frei zum Herunterladen, Ausprobieren und Mitspielen!  
 
-## 📁 Übersicht der Projekte
+### 📁 Übersicht der Projekte
 
 🛠️ **Satisfactory**  
 Blueprint-Dateien, Layout-Screenshots und Speicherstände meiner aktuellen Satisfactory-Welt.  
