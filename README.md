@@ -18,4 +18,6 @@ Hier findest du:
    - Lade die `.sav`-Datei herunter
    - Kopiere sie nach: `Documents\My Games\FactoryGame\Saved\SaveGames\`
 
+Folgendes in der Windows-Suchleite eingeben, um direkt in den Satisfactory-Ordner zu kommen: `%localappdata%\FactoryGame`  
+
 Viel Spaß beim Mitbauen! 💡
