@@ -9,7 +9,7 @@ Hier findest du:
 
 ## 📥 Nutzungshinweis
 
-1. **Blaupausen**
+1. [**Blaupausen**](https://github.com/EnefesMostWanted/letsplay-downloads/tree/blaupausen)  
    - Lade die `.blueprint`-Datei herunter
    - Kopiere sie in deinen Ordner: `Documents\My Games\FactoryGame\Saved\SaveGames\blueprints\`
    - Im Spiel über das Blaupausen-Menü abrufen
