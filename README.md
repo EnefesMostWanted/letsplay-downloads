@@ -3,10 +3,11 @@
 Willkommen im offiziellen Repository zu meinen YouTube Let's Plays!  
 Hier findest du Blaupausen, Speicherstände, Screenshots und begleitende Dateien zu meinen Serien [meinen Serien](https://www.youtube.com/@Enefes91).  
 Alles frei zum Herunterladen, Ausprobieren und Mitspielen!  
+Alles aktuell noch komplett WIP versteht sich :D  
 
 ### 📁 Übersicht der Projekte
 
-🛠️ **Satisfactory**  
+🛠️ **Satisfactory**  *(WIP)*   
 Blueprint-Dateien, Layout-Screenshots und Speicherstände meiner aktuellen Satisfactory-Welt.  
 
 🏛️ **Civilization 7** *(WIP)*  
